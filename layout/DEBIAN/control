@@ -1,0 +1,9 @@
+Package: com.icraze.fuckoffairdrop
+Name: Fuck Off AirDrop
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Stop AirDrop from automatically installing .ipa files
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
